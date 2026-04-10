@@ -34,11 +34,11 @@
 
 <div align="left">
   <a href="https://github.com/dev-isaacportela">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-isaacportela&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-isaacportela&layout=compact&theme=dracula" height="150" alt="Top Languages" />
   </a>
   <img width="12" />
   <a href="https://github.com/dev-isaacportela">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-isaacportela&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=dev-isaacportela&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   </a>
 </div>
 
